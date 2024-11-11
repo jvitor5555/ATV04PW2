@@ -1,6 +1,4 @@
-# ATV04PW2
-
-# Atividade - JavaScript
+# Atividade - JavaScript - ATV04PW2
 
 ## Cenário
 
